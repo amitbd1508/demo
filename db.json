@@ -13,7 +13,7 @@
         "tag_name": "example tag"
       }
     ],
-    "quick_replies": [ //optional
+    "quick_replies": [ 
       {
         "type": "node",
         "caption": "Quick reply text",
